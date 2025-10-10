@@ -320,25 +320,5 @@ Automated alerts for:
 - Model convergence problems
 - Unusual pricing patterns
 
-##  **Testing**
-
-### Run All Tests
-
-```bash
-# Unit tests
-pytest tests/unit/
-
-# Integration tests  
-pytest tests/integration/
-
-# Performance tests
-pytest tests/performance/
-
-# Coverage report
-pytest --cov=src tests/
-```
-
-
-**Made with ❤️ for intelligent pricing**
 
 *Transform your pricing strategy with AI. Maximize profits, not just revenue.*
